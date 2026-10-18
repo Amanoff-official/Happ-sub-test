@@ -1,4 +1,4 @@
-#color-profile: {"backgroundColors":["#09051BFF","#1A0B38FF","#310E52FF"],"serverRowTitleTextColor":"#FFF5FFFF","serverRowSubTitleTextColor":"#BFA6C8FF","buttonColor":"#FF4FD8FF","buttonTextColor":"#2A0730FF","serverRowChevronColor":"#45E9FFFF"}
+#color-profile: {"backgroundColors":["#FF0000FF","#00AA00FF"],"serverRowTitleTextColor":"#FFFF00FF","serverRowSubTitleTextColor":"#00FFFFFF","buttonColor":"#FF00FFFF","buttonTextColor":"#000000FF","serverRowChevronColor":"#FF8800FF"}
 vless://eadf8190-b5b2-491c-bdce-8b4e7eb5134d@194.58.102.227:18203?encryption=mlkem768x25519plus.native.0rtt.INP7HOi4GvQqKKwQRlgKJu71ZIm-V7pM8fxrP7N0NQE&security=none&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B2user%3A%20Burgut
 ss://aes-256-gcm:8q48aqvqb7sbyzvn@194.58.102.227:23443#%F0%9F%87%B7%F0%9F%87%BA%20russiya-game
 vless://eadf8190-b5b2-491c-bdce-8b4e7eb5134d@194.58.102.227:18203?encryption=mlkem768x25519plus.native.0rtt.INP7HOi4GvQqKKwQRlgKJu71ZIm-V7pM8fxrP7N0NQE&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AAgerman
