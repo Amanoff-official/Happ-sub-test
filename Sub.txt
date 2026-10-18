@@ -1,0 +1,8 @@
+{
+  "backgroundColors": ["#09051BFF", "#1A0B38FF"],
+  "serverRowTitleTextColor": "#FFF5FFFF",
+  "serverRowSubTitleTextColor": "#BFA6C8FF",
+  "buttonColor": "#FF4FD8FF",
+  "buttonTextColor": "#2A0730FF",
+  "serverRowChevronColor": "#45E9FFFF"
+}
